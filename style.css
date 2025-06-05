@@ -17,11 +17,12 @@ body{
   padding:2rem;
   background:url(https://cdn.pixabay.com/photo/2016/10/23/15/47/paper-1763262_1280.png) no-repeat top left / cover;
   position:relative;
-  z-index:1
+  z-index:1;
   }
 
+
 .note_content p{
-  font-family:Italianno;
+  font-family: 'Italianno', cursive;
   font-size:2.5rem;
   transform:rotate(-0deg);
   padding:2rem;
